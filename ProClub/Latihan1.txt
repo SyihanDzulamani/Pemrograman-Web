@@ -1,11 +1,1 @@
-
-using System;
-
-class Program {
-    static void Main(string[] args) {
-        byte number=255;
-      {
-        Console.WriteLine(number);
-      }
-    }
-}
+perubahan pertama
